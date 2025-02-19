@@ -1,5 +1,8 @@
+
 letters = ['A', 'B', 'C', 'D']
 numbers = ['1','2','3']
 
 for letter in letters:
-    print(letter.lower())
+    print("A letter: " + str(letter))
+    
+
