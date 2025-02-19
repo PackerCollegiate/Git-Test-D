@@ -1,4 +1,4 @@
-letters = ['A', 'B', 'C', 'D']
+letters = ['A', 'B', 'C', 'D', 'E', '1', '2', '3']
 
 for letter in letters:
     print(letter)
