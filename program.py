@@ -9,3 +9,8 @@ for letter in letters:
 print(letters[::-1])
 
 print("hello hello hello hi hola hi!!!")
+
+
+text = "Ezar Sadeque"
+rev_text = text[::-1]
+print(rev_text)
