@@ -6,3 +6,6 @@ for letter in letters:
     print("A letter: " + str(letter))
     
 
+print(letters[::-1])
+
+print("hello lila!!!")
