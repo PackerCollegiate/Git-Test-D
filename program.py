@@ -1,5 +1,5 @@
 
-letters = ['A', 'B', 'C', 'f']
+letters = ['A', 'B', 'C', 'f', 'e']
 numbers = ['1','2','3', '4']
 
 for letter in letters:
