@@ -9,3 +9,6 @@ for letter in letters:
 print(letters[::-1])
 
 print("hello hello hello hi hola hi!!!")
+
+for number in numbers:
+    print(int(number) + 10)
